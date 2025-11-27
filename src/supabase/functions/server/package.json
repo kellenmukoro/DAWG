@@ -1,0 +1,6 @@
+{
+  "name": "dawg-server-functions",
+  "version": "1.0.0",
+  "description": "Supabase Edge Functions - runs on Supabase Deno runtime, not Netlify",
+  "private": true
+}
